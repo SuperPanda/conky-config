@@ -1,2 +1,2 @@
 # conky-config
-Conky
+
